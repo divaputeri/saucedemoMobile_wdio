@@ -1,6 +1,5 @@
 
 // import type { ChainablePromiseElement } from 'webdriverio'
-
 class AppPage {
     public appPackage= "com.swaglabsmobileapp"
     public appActivity= "com.swaglabsmobileapp.MainActivity"
@@ -58,6 +57,6 @@ class AppPage {
       }
       return false
     }
-
+//testing
 }
 export default new AppPage();
